@@ -20,7 +20,7 @@ public:
         for (int i = 0; i < n && j<m; i++) {
        
                 if (word1[i] == word2[j] ||
-                    (can_change == true && (j == m - 1 || i < last[j + 1]))) {
+                    (can_change == true && (j == m - 1 || i+1 <= last[j + 1]))) {
                     if (word1[i] != word2[j]) {
                         can_change=false;
                     }

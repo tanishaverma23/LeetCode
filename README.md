@@ -24,6 +24,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/tanishaverma23/LeetCode/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/tanishaverma23/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/tanishaverma23/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanishaverma23/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/tanishaverma23/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
@@ -37,6 +38,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/tanishaverma23/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/tanishaverma23/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |

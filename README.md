@@ -14,6 +14,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanishaverma23/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanishaverma23/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
@@ -24,6 +25,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0001-two-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishaverma23/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -131,4 +133,12 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/tanishaverma23/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->

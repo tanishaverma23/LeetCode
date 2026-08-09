@@ -22,6 +22,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanishaverma23/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanishaverma23/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -43,6 +44,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/tanishaverma23/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tanishaverma23/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -126,6 +128,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/1534-count-good-triplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanishaverma23/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
@@ -154,6 +157,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Two Pointers
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaverma23/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

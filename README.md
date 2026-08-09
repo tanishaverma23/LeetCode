@@ -18,6 +18,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanishaverma23/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/tanishaverma23/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanishaverma23/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -124,6 +125,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanishaverma23/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |

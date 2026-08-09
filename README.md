@@ -15,6 +15,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanishaverma23/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/tanishaverma23/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanishaverma23/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -88,6 +89,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/tanishaverma23/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Zero-Sum Game
 |  |
 | ------- |

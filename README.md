@@ -68,6 +68,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0877-stone-game](https://github.com/tanishaverma23/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
+| [2769-find-the-maximum-achievable-number](https://github.com/tanishaverma23/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanishaverma23/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanishaverma23/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |

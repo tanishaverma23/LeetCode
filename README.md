@@ -20,6 +20,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1480-running-sum-of-1d-array](https://github.com/tanishaverma23/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/tanishaverma23/LeetCode/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanishaverma23/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -56,6 +57,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishaverma23/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/tanishaverma23/LeetCode/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanishaverma23/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanishaverma23/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaverma23/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

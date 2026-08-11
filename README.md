@@ -26,6 +26,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanishaverma23/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanishaverma23/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -77,6 +78,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tanishaverma23/LeetCode/tree/master/1510-stone-game-iv) |
 | [2469-convert-the-temperature](https://github.com/tanishaverma23/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tanishaverma23/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanishaverma23/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanishaverma23/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |

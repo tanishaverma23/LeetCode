@@ -23,3 +23,4 @@ public:
         return false;
     }
 };
+//Note:If two prefix sums have the same remainder when divided by k, then the subarray between them has a sum divisible by k.

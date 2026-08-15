@@ -56,6 +56,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0049-group-anagrams](https://github.com/tanishaverma23/LeetCode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishaverma23/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/tanishaverma23/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -75,6 +76,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishaverma23/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/tanishaverma23/LeetCode/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishaverma23/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/tanishaverma23/LeetCode/tree/master/1816-truncate-sentence) |
@@ -204,6 +206,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishaverma23/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishaverma23/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishaverma23/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

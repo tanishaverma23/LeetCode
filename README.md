@@ -43,6 +43,7 @@ My LeetCode solutions in C++ with daily practice.
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanishaverma23/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanishaverma23/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/tanishaverma23/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaverma23/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/tanishaverma23/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
@@ -215,6 +216,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaverma23/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
 | ------- |

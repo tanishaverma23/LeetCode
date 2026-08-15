@@ -15,21 +15,17 @@ public:
 
         int left = 0;
 
-        for (int right = 0; right < s2.length(); right++) {
-
+        for (int right = 0; right < s2.length() ; right++) {
             window[s2[right] - 'a']++;
-
-        
             if (right - left + 1 > k) {
                 window[s2[left] - 'a']--;
                 left++;
             }
-
-         
             if (right - left + 1 == k) {
                 if (freq == window)
                     return true;
             }
+         
         }
 
         return false;

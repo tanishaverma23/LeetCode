@@ -23,6 +23,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanishaverma23/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/tanishaverma23/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/1534-count-good-triplets) |
+| [1563-stone-game-v](https://github.com/tanishaverma23/LeetCode/tree/master/1563-stone-game-v) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/tanishaverma23/LeetCode/tree/master/1816-truncate-sentence) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
@@ -102,6 +103,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tanishaverma23/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tanishaverma23/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/tanishaverma23/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -122,6 +124,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tanishaverma23/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tanishaverma23/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaverma23/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -135,6 +138,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tanishaverma23/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tanishaverma23/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
 | [3828-final-element-after-subarray-deletions](https://github.com/tanishaverma23/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Sorting

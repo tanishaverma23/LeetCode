@@ -2,36 +2,59 @@ class Solution {
 public:
     string minWindow(string s, string t) {
 
-        vector<int> freq(128, 0);
+        vector<int> freq(52, 0);
+        vector<int> wind(52, 0);
+
         for (char c : t) {
-            freq[c]++;
+            if (c >= 'a' && c <= 'z')
+                freq[c - 'a']++;
+            else
+                freq[c - 'A' + 26]++;
         }
 
-        int left = 0, count = t.length();
-        int min_len = INT_MAX, start_idx = 0;
+        int left = 0;
+        int required = t.length();
+        int minLen = INT_MAX;
+        int start = 0;
 
         for (int right = 0; right < s.length(); right++) {
-            if (freq[s[right]] > 0) {
-                count--;
-            }
-            freq[s[right]]--;
 
-            // When all characters are matched, try shrinking the window from
-            // left
-            while (count == 0) {
-                if (right - left + 1 < min_len) {
-                    min_len = right - left + 1;
-                    start_idx = left;
+            int index;
+
+            if (s[right] >= 'a' && s[right] <= 'z')
+                index = s[right] - 'a';
+            else
+                index = s[right] - 'A' + 26;
+
+            wind[index]++;
+
+            if (wind[index] <= freq[index])
+                required--;
+
+            while (required == 0) {
+
+                if (right - left + 1 < minLen) {
+                    minLen = right - left + 1;
+                    start = left;
                 }
 
-                freq[s[left]]++;
-                if (freq[s[left]] > 0) {
-                    count++;
-                }
+                if (s[left] >= 'a' && s[left] <= 'z')
+                    index = s[left] - 'a';
+                else
+                    index = s[left] - 'A' + 26;
+
+                wind[index]--;
+
+                if (wind[index] < freq[index])
+                    required++;
+
                 left++;
             }
         }
 
-        return min_len == INT_MAX ? "" : s.substr(start_idx, min_len);
+        if (minLen == INT_MAX)
+            return "";
+
+        return s.substr(start, minLen);
     }
 };

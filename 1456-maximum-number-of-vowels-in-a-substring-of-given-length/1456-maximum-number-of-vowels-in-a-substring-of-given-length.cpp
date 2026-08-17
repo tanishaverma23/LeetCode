@@ -8,7 +8,7 @@ public:
         int left = 0;
         int window = 0;
 
-        for (int right = 0; right < n ; right++) {
+        for (int right = 0; right < n; right++) {
 
             if (s[right] == 'a' || s[right] == 'e' || s[right] == 'i' ||
                 s[right] == 'o' || s[right] == 'u') {

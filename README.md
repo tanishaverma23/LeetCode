@@ -46,6 +46,7 @@ My LeetCode solutions in C++ with daily practice.
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanishaverma23/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanishaverma23/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/tanishaverma23/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/tanishaverma23/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaverma23/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/tanishaverma23/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -70,6 +71,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishaverma23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishaverma23/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tanishaverma23/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/tanishaverma23/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/tanishaverma23/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String

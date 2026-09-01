@@ -59,6 +59,7 @@ My LeetCode solutions in C++ with daily practice.
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanishaverma23/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/tanishaverma23/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanishaverma23/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaverma23/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanishaverma23/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
@@ -87,6 +88,7 @@ My LeetCode solutions in C++ with daily practice.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishaverma23/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tanishaverma23/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanishaverma23/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanishaverma23/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
@@ -221,6 +223,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/tanishaverma23/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -299,6 +302,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanishaverma23/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanishaverma23/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaverma23/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
@@ -314,6 +318,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [2373-largest-local-values-in-a-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

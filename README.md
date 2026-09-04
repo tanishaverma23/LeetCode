@@ -66,6 +66,7 @@ My LeetCode solutions in C++ with daily practice.
 | [3828-final-element-after-subarray-deletions](https://github.com/tanishaverma23/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanishaverma23/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/tanishaverma23/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanishaverma23/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tanishaverma23/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanishaverma23/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3903-smallest-stable-index-i](https://github.com/tanishaverma23/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |

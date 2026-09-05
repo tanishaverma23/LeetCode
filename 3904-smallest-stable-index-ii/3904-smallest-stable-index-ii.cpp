@@ -10,7 +10,7 @@ public:
             minSuffix[i] = min(nums[i], minSuffix[i + 1]);
         }
         
-        // Iterate to find the smallest stable index
+  
         int maxPrefix = nums[0];
         for (int i = 0; i < n; ++i) {
             maxPrefix = max(maxPrefix, nums[i]);

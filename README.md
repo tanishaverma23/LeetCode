@@ -137,6 +137,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/tanishaverma23/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
@@ -410,4 +411,8 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanishaverma23/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

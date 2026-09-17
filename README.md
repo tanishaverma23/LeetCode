@@ -26,6 +26,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1386-cinema-seat-allocation](https://github.com/tanishaverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tanishaverma23/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/tanishaverma23/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishaverma23/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/1534-count-good-triplets) |
@@ -87,6 +88,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/tanishaverma23/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -174,6 +176,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0940-distinct-subsequences-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishaverma23/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/tanishaverma23/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tanishaverma23/LeetCode/tree/master/1563-stone-game-v) |
@@ -271,6 +274,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0035-search-insert-position](https://github.com/tanishaverma23/LeetCode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/tanishaverma23/LeetCode/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanishaverma23/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tanishaverma23/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -307,6 +311,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1004-max-consecutive-ones-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishaverma23/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishaverma23/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishaverma23/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanishaverma23/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

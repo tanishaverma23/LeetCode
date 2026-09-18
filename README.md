@@ -211,6 +211,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tanishaverma23/LeetCode/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -328,6 +329,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishaverma23/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -413,6 +415,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -426,6 +429,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishaverma23/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -448,4 +452,8 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

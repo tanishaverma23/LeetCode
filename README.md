@@ -189,6 +189,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanishaverma23/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -322,6 +323,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -418,6 +420,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanishaverma23/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
@@ -432,4 +435,8 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

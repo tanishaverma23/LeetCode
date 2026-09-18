@@ -89,6 +89,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -116,6 +117,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishaverma23/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/tanishaverma23/LeetCode/tree/master/1816-truncate-sentence) |
 | [1927-sum-game](https://github.com/tanishaverma23/LeetCode/tree/master/1927-sum-game) |
@@ -212,6 +214,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanishaverma23/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/tanishaverma23/LeetCode/tree/master/2974-minimum-number-game) |
@@ -289,6 +292,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/tanishaverma23/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/tanishaverma23/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanishaverma23/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |

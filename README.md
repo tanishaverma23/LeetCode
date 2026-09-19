@@ -141,6 +141,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishaverma23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -192,6 +193,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishaverma23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
@@ -431,6 +433,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishaverma23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishaverma23/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishaverma23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |

@@ -384,6 +384,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Simulation
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tanishaverma23/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/tanishaverma23/LeetCode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishaverma23/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -445,6 +446,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0876-middle-of-the-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanishaverma23/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tanishaverma23/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Tree
 |  |
 | ------- |

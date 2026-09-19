@@ -9,55 +9,57 @@
  * };
  */
 class Solution {
-    ListNode* getkthNode(ListNode* temp,int k){
-        k-=1;
-        while(temp!=NULL && k>0){
+    ListNode* getkthNode(ListNode* temp, int k) {
+        k -= 1;
+        while (temp != NULL && k > 0) {
             k--;
-            temp=temp->next;
+            temp = temp->next;
         }
         return temp;
     }
 
-    ListNode* ReverseList(ListNode* head){
-        ListNode* curr=head;
-        ListNode* prev=NULL;
+    ListNode* ReverseList(ListNode* head) {
+        ListNode* curr = head;
+        ListNode* prev = NULL;
 
-        while(curr!=NULL){
-            ListNode* next=curr->next;
-            curr->next=prev;
+        while (curr != NULL) {
+            ListNode* next = curr->next;
+            curr->next = prev;
 
-            prev=curr;
-            curr=next;
+            prev = curr;
+            curr = next;
         }
-        head=prev;
+        head = prev;
         return head;
     }
+
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* temp=head;
-        ListNode*prevNode=NULL;
+        ListNode* temp = head;
+        ListNode* prevNode = NULL;
 
-        while(temp!=NULL){
-            ListNode* kthNode= getkthNode(temp,k);
-            if(kthNode==NULL){
-                if(prevNode){
-                    prevNode->next=temp;
+        while (temp != NULL) {
+            ListNode* kthNode = getkthNode(temp,k);
+            if (kthNode == NULL) {
+                if (prevNode) {
+                    prevNode->next = temp;
                     break;
                 }
             }
 
-            ListNode* nextNode=kthNode->next;
-            kthNode->next=NULL;
+            ListNode* nextNode = kthNode->next;
+            kthNode->next = NULL;
 
             ReverseList(temp);
-            if(temp==head){
-                  head=kthNode;
-            }else{
-                 prevNode->next=kthNode;
-            }
-            prevNode=temp;
-            temp=nextNode;
 
+            if (temp == head) {
+                head = kthNode;
+            } else {
+                prevNode->next = kthNode;
+            }
+
+            prevNode =temp;
+            temp=nextNode;
         }
         return head;
     }

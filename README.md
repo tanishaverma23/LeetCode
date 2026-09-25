@@ -89,6 +89,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
+| [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/tanishaverma23/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -121,6 +122,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishaverma23/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -142,6 +144,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishaverma23/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -228,6 +231,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
+| [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -274,6 +278,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/tanishaverma23/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -480,6 +485,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |

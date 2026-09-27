@@ -125,6 +125,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanishaverma23/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -489,9 +490,14 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

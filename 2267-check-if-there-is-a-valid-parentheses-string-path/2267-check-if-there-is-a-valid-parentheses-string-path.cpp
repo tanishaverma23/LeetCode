@@ -8,7 +8,7 @@ public:
         if (grid[0][0] == ')') return false;
 
         bool visited[100][100][101] = {false};
-        std::queue<std::tuple<int, int, int>> q;
+        queue<tuple<int, int, int>> q;
 
         q.push({0, 0, 1});
         visited[0][0][1] = true;

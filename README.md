@@ -120,6 +120,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishaverma23/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tanishaverma23/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tanishaverma23/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/tanishaverma23/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -196,6 +197,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/tanishaverma23/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/tanishaverma23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
@@ -498,6 +500,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanishaverma23/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -513,6 +516,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanishaverma23/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

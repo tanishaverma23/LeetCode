@@ -124,6 +124,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0049-group-anagrams](https://github.com/tanishaverma23/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tanishaverma23/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/tanishaverma23/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishaverma23/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tanishaverma23/LeetCode/tree/master/0567-permutation-in-string) |
@@ -158,6 +159,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishaverma23/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -296,6 +298,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/tanishaverma23/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |

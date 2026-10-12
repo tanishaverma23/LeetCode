@@ -13,6 +13,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0152-maximum-product-subarray](https://github.com/tanishaverma23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -91,6 +92,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0076-minimum-window-substring](https://github.com/tanishaverma23/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishaverma23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanishaverma23/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -258,6 +260,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0075-sort-colors](https://github.com/tanishaverma23/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -419,6 +422,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -437,6 +441,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanishaverma23/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/tanishaverma23/LeetCode/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanishaverma23/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -484,10 +489,12 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -565,4 +572,8 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanishaverma23/LeetCode/tree/master/0075-sort-colors) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

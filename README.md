@@ -9,6 +9,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0001-two-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/tanishaverma23/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/tanishaverma23/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/tanishaverma23/LeetCode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/tanishaverma23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -252,6 +253,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tanishaverma23/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/tanishaverma23/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
@@ -383,6 +385,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishaverma23/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/tanishaverma23/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/tanishaverma23/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishaverma23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/tanishaverma23/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -550,4 +553,12 @@ My LeetCode solutions in C++ with daily practice.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishaverma23/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanishaverma23/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanishaverma23/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tanishaverma23/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

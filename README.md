@@ -53,6 +53,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2798-number-of-employees-who-met-the-target](https://github.com/tanishaverma23/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanishaverma23/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanishaverma23/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishaverma23/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/tanishaverma23/LeetCode/tree/master/2974-minimum-number-game) |
@@ -105,6 +106,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanishaverma23/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishaverma23/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishaverma23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishaverma23/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -353,6 +355,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanishaverma23/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanishaverma23/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanishaverma23/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaverma23/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -408,6 +411,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/tanishaverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanishaverma23/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanishaverma23/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanishaverma23/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |

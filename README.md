@@ -76,6 +76,7 @@ My LeetCode solutions in C++ with daily practice.
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tanishaverma23/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanishaverma23/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tanishaverma23/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/tanishaverma23/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanishaverma23/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -272,6 +273,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishaverma23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tanishaverma23/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tanishaverma23/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tanishaverma23/LeetCode/tree/master/3731-find-missing-elements) |
 ## Minimax
 |  |
@@ -362,6 +364,7 @@ My LeetCode solutions in C++ with daily practice.
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaverma23/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tanishaverma23/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |

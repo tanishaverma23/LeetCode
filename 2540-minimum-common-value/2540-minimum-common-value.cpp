@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int getCommon(vector<int>& nums1, vector<int>& nums2) {
+        set<int> st1(nums1.begin(), nums1.end()); 
+        
+        int ans = INT_MAX;
+        for (auto num : nums2) {
+            if (st1.count(num)) {
+                ans = min(ans, num);
+            }
+        }
+        
+        return (ans == INT_MAX) ? -1 : ans;
+    }
+};

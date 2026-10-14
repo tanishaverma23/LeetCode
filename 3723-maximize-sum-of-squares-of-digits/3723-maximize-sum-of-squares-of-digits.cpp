@@ -9,9 +9,9 @@ public:
         string ans = "";
         while (cnt) {
            int d = min(9, target);
-            while (d >= 0 && target - d > (cnt - 1) * 9) {
-                d--;
-            }
+            // while (d >= 0 && target - d > (cnt - 1) * 9) {
+            //     d--;
+            // }
             
             op.push_back(d);
             target -= d;

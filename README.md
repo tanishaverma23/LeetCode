@@ -192,6 +192,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishaverma23/LeetCode/tree/master/0002-add-two-numbers) |
+| [0319-bulb-switcher](https://github.com/tanishaverma23/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/tanishaverma23/LeetCode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -444,6 +445,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/tanishaverma23/LeetCode/tree/master/0319-bulb-switcher) |
 | [3828-final-element-after-subarray-deletions](https://github.com/tanishaverma23/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Bit Manipulation
 |  |

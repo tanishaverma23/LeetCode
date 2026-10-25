@@ -21,6 +21,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0877-stone-game](https://github.com/tanishaverma23/LeetCode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/tanishaverma23/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/tanishaverma23/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tanishaverma23/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -330,6 +331,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanishaverma23/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/tanishaverma23/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -337,6 +339,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/tanishaverma23/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -466,6 +469,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanishaverma23/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -534,6 +538,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanishaverma23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanishaverma23/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List

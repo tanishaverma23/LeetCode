@@ -192,6 +192,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishaverma23/LeetCode/tree/master/0002-add-two-numbers) |
+| [0292-nim-game](https://github.com/tanishaverma23/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/tanishaverma23/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/tanishaverma23/LeetCode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
@@ -267,6 +268,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tanishaverma23/LeetCode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanishaverma23/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
@@ -304,6 +306,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tanishaverma23/LeetCode/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tanishaverma23/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/tanishaverma23/LeetCode/tree/master/1872-stone-game-viii) |
@@ -445,6 +448,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tanishaverma23/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/tanishaverma23/LeetCode/tree/master/0319-bulb-switcher) |
 | [3828-final-element-after-subarray-deletions](https://github.com/tanishaverma23/LeetCode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Bit Manipulation
@@ -497,6 +501,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tanishaverma23/LeetCode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/tanishaverma23/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -641,4 +646,8 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanishaverma23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tanishaverma23/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

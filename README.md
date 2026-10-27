@@ -19,6 +19,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0835-image-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/tanishaverma23/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tanishaverma23/LeetCode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
@@ -375,6 +376,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0069-sqrtx](https://github.com/tanishaverma23/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/tanishaverma23/LeetCode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/tanishaverma23/LeetCode/tree/master/0441-arranging-coins) |
+| [0875-koko-eating-bananas](https://github.com/tanishaverma23/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanishaverma23/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |

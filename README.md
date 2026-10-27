@@ -194,6 +194,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanishaverma23/LeetCode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/tanishaverma23/LeetCode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/tanishaverma23/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/tanishaverma23/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/tanishaverma23/LeetCode/tree/master/0441-arranging-coins) |
@@ -371,6 +372,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanishaverma23/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/tanishaverma23/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tanishaverma23/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/tanishaverma23/LeetCode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/tanishaverma23/LeetCode/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -658,4 +660,8 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tanishaverma23/LeetCode/tree/master/0292-nim-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tanishaverma23/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

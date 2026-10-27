@@ -3,11 +3,13 @@ public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
         vector<int>ans;
         int n=nums.size();
-        sort(nums.begin(),nums.end());
-        for(int i=1;i<=n;i++){
-            if(!binary_search(nums.begin(),nums.end(),i)){
-                ans.push_back(i);
+        for(int i=0;i<n;i++){
+            if(nums[abs(nums[i])-1]>0){
+            nums[abs(nums[i])-1]=-nums[abs(nums[i])-1];
             }
+        }
+        for(int i=0;i<n;i++){
+            if(nums[i]>0)ans.push_back(i+1);
         }
         return ans;
     }

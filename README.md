@@ -38,6 +38,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tanishaverma23/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanishaverma23/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/tanishaverma23/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/tanishaverma23/LeetCode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanishaverma23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanishaverma23/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -387,6 +388,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tanishaverma23/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tanishaverma23/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/tanishaverma23/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanishaverma23/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanishaverma23/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanishaverma23/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |

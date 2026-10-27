@@ -1,5 +1,5 @@
 class Solution {
-    bool is_suffecient(vector<int>& piles,int speed, int h){
+    bool is_sufficient(vector<int>& piles,int speed, int h){
         long long hours=0;
         for(auto& pile:piles){
             hours+=(pile+speed-1)/speed;
@@ -16,7 +16,7 @@ public:
         while(low<=high){
             int mid= low+(high-low)/2;
 
-            if(is_suffecient(piles,mid,h)){
+            if(is_sufficient(piles,mid,h)){
                 ans=mid;
                 high=mid-1;
             }else{

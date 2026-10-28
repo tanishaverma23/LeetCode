@@ -49,6 +49,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/tanishaverma23/LeetCode/tree/master/1816-truncate-sentence) |
 | [1872-stone-game-viii](https://github.com/tanishaverma23/LeetCode/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanishaverma23/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanishaverma23/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -398,6 +399,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tanishaverma23/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/tanishaverma23/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanishaverma23/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1901-find-a-peak-element-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanishaverma23/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanishaverma23/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/tanishaverma23/LeetCode/tree/master/2540-minimum-common-value) |
@@ -507,6 +509,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0835-image-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1901-find-a-peak-element-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanishaverma23/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |

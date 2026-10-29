@@ -21,6 +21,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0704-binary-search](https://github.com/tanishaverma23/LeetCode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/tanishaverma23/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/tanishaverma23/LeetCode/tree/master/0877-stone-game) |
@@ -394,6 +395,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0278-first-bad-version](https://github.com/tanishaverma23/LeetCode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/tanishaverma23/LeetCode/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/tanishaverma23/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tanishaverma23/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishaverma23/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tanishaverma23/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |

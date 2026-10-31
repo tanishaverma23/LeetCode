@@ -92,6 +92,7 @@ My LeetCode solutions in C++ with daily practice.
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanishaverma23/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/tanishaverma23/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tanishaverma23/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/tanishaverma23/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tanishaverma23/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanishaverma23/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanishaverma23/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -357,6 +358,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanishaverma23/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tanishaverma23/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanishaverma23/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/tanishaverma23/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tanishaverma23/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/tanishaverma23/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3904-smallest-stable-index-ii) |

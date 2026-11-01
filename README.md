@@ -24,6 +24,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0410-split-array-largest-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanishaverma23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -224,6 +225,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0292-nim-game](https://github.com/tanishaverma23/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/tanishaverma23/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/tanishaverma23/LeetCode/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0836-rectangle-overlap) |

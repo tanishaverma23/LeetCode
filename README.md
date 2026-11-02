@@ -25,6 +25,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanishaverma23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -226,6 +227,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0319-bulb-switcher](https://github.com/tanishaverma23/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/tanishaverma23/LeetCode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -325,6 +327,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanishaverma23/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |

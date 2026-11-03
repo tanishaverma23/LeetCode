@@ -60,6 +60,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishaverma23/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/tanishaverma23/LeetCode/tree/master/1816-truncate-sentence) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/tanishaverma23/LeetCode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
@@ -221,6 +222,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0078-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -246,6 +248,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanishaverma23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tanishaverma23/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tanishaverma23/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/tanishaverma23/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanishaverma23/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
@@ -411,6 +414,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanishaverma23/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanishaverma23/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -530,6 +534,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0078-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tanishaverma23/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanishaverma23/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanishaverma23/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -617,6 +622,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanishaverma23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tanishaverma23/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanishaverma23/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |

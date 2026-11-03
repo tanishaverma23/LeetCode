@@ -13,6 +13,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0049-group-anagrams](https://github.com/tanishaverma23/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tanishaverma23/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/tanishaverma23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/tanishaverma23/LeetCode/tree/master/0162-find-peak-element) |
@@ -217,6 +218,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanishaverma23/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -525,6 +527,7 @@ My LeetCode solutions in C++ with daily practice.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/tanishaverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tanishaverma23/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |

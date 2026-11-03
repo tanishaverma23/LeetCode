@@ -64,6 +64,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1872-stone-game-viii](https://github.com/tanishaverma23/LeetCode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tanishaverma23/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tanishaverma23/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanishaverma23/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -223,6 +224,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0301-remove-invalid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
@@ -415,6 +417,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [1534-count-good-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tanishaverma23/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/tanishaverma23/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanishaverma23/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -535,6 +538,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1386-cinema-seat-allocation](https://github.com/tanishaverma23/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/tanishaverma23/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tanishaverma23/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanishaverma23/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |

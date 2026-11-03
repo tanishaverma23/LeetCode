@@ -24,6 +24,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/tanishaverma23/LeetCode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -287,6 +288,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0115-distinct-subsequences](https://github.com/tanishaverma23/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/tanishaverma23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/tanishaverma23/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -765,9 +767,11 @@ My LeetCode solutions in C++ with daily practice.
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

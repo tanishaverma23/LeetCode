@@ -28,6 +28,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanishaverma23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/tanishaverma23/LeetCode/tree/master/0704-binary-search) |
@@ -222,6 +223,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0022-generate-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/tanishaverma23/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/tanishaverma23/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -286,6 +288,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0152-maximum-product-subarray](https://github.com/tanishaverma23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/tanishaverma23/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/tanishaverma23/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/tanishaverma23/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/tanishaverma23/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -759,4 +762,12 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tanishaverma23/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/tanishaverma23/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

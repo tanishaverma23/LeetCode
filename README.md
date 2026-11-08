@@ -44,6 +44,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tanishaverma23/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tanishaverma23/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/tanishaverma23/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tanishaverma23/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/tanishaverma23/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -423,6 +424,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tanishaverma23/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanishaverma23/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/tanishaverma23/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanishaverma23/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -433,6 +435,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0301-remove-invalid-parentheses](https://github.com/tanishaverma23/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tanishaverma23/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/tanishaverma23/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanishaverma23/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanishaverma23/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -586,6 +589,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanishaverma23/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/tanishaverma23/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/tanishaverma23/LeetCode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/tanishaverma23/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -600,6 +604,7 @@ My LeetCode solutions in C++ with daily practice.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/tanishaverma23/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tanishaverma23/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/tanishaverma23/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanishaverma23/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/tanishaverma23/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -683,6 +688,7 @@ My LeetCode solutions in C++ with daily practice.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/tanishaverma23/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/tanishaverma23/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanishaverma23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanishaverma23/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanishaverma23/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |

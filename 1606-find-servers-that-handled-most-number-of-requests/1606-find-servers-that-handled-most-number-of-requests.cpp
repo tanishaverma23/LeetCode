@@ -1,15 +1,15 @@
 class Solution {
 public:
-    std::vector<int> busiestServers(int k, std::vector<int>& arrival, std::vector<int>& load) {
+    vector<int> busiestServers(int k, vector<int>& arrival, vector<int>& load) {
         int n = arrival.size();
-        std::priority_queue<std::pair<long long, int>, std::vector<std::pair<long long, int>>, std::greater<>> busy_pq;
-        std::set<int> available;
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<>> busy_pq;
+        set<int> available;
         
         for (int i = 0; i < k; ++i) {
             available.insert(i);
         }
         
-        std::vector<int> request_count(k, 0);
+        vector<int> request_count(k, 0);
         
         for (int i = 0; i < n; ++i) {
             long long start = arrival[i];
@@ -41,10 +41,10 @@ public:
         
         int max_requests = 0;
         for (int count : request_count) {
-            max_requests = std::max(max_requests, count);
+            max_requests = max(max_requests, count);
         }
         
-        std::vector<int> busiest;
+    vector<int> busiest;
         for (int i = 0; i < k; ++i) {
             if (request_count[i] == max_requests) {
                 busiest.push_back(i);

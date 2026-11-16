@@ -219,6 +219,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1927-sum-game](https://github.com/tanishaverma23/LeetCode/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanishaverma23/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tanishaverma23/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/tanishaverma23/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2409-count-days-spent-together](https://github.com/tanishaverma23/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tanishaverma23/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -639,6 +640,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tanishaverma23/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanishaverma23/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanishaverma23/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/tanishaverma23/LeetCode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishaverma23/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |

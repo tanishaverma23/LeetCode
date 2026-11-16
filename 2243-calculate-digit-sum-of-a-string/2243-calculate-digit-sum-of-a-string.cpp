@@ -5,7 +5,8 @@ public:
             string nextStr = "";
             for (int i = 0; i < s.length(); i += k) {
                 int groupSum = 0;
-                for (int j = i; j < min((int)s.length(), i + k); j++) {
+              
+                for (int j = i; j < i + k && j < s.length(); j++) {
                     groupSum += s[j] - '0';
                 }
                 nextStr += to_string(groupSum);

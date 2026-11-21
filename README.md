@@ -113,6 +113,7 @@ My LeetCode solutions in C++ with daily practice.
 | [3232-find-if-digit-game-can-be-won](https://github.com/tanishaverma23/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/tanishaverma23/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/tanishaverma23/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/tanishaverma23/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tanishaverma23/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tanishaverma23/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/tanishaverma23/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -179,6 +180,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishaverma23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishaverma23/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/tanishaverma23/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/tanishaverma23/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanishaverma23/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanishaverma23/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tanishaverma23/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -231,6 +233,7 @@ My LeetCode solutions in C++ with daily practice.
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tanishaverma23/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishaverma23/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanishaverma23/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/tanishaverma23/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishaverma23/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanishaverma23/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanishaverma23/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -443,6 +446,7 @@ My LeetCode solutions in C++ with daily practice.
 | [1267-count-servers-that-communicate](https://github.com/tanishaverma23/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanishaverma23/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/tanishaverma23/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/tanishaverma23/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanishaverma23/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tanishaverma23/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -740,6 +744,7 @@ My LeetCode solutions in C++ with daily practice.
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tanishaverma23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tanishaverma23/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/tanishaverma23/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/tanishaverma23/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
